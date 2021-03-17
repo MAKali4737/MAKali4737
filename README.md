@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Ali's Resume.pdf](https://github.com/MAKali4737/MAKali4737/files/6159382/Ali.s.Resume.pdf)
+
+[Ali's Resume.pdf](https://github.com/MAKali4737/MAKali4737/files/6159401/Ali.s.Resume.pdf)
